@@ -24,3 +24,7 @@ class Cat(Feline):
 hobbes = Feline("Hobbes", "Calvin")
 
 pluto = Cat("Pluto", "Ms. Manor")
+
+
+pluto.speak("mew")
+
